@@ -2,7 +2,7 @@
   {
     "type": "file",
     "id": "youtube-block",
-    "title": "YouTube Block",
+    "title": "YouTube",
     "description": "Embed a YouTube video into a Markdown document",
     "entry": "blocks/youtube-block/index.tsx",
     "matches": ["*"],
