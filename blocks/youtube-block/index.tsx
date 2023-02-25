@@ -11,6 +11,7 @@ export default function (props: FileBlockProps) {
       src={`https://www.youtube.com/embed/${metadata.videoId}`}
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
+      style={{'height' : '433px'}}
     />
   )
 }
